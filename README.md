@@ -1,5 +1,5 @@
 # Calculator
-Study Java SE project.
+Training Java SE project.
 
 A simple calculator application in Java using Swing.
 
